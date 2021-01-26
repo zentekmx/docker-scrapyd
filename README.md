@@ -60,6 +60,7 @@ scrapyd-deploy --build-egg <myproject>.egg
 
 ```console
 curl http://[docker host]:6800/addversion.json -F project=<myproject> -F version=r1 -F egg=@<myproject>.egg
+```
 
 You can check the status of the project/spiders and logs on the scrapyd web GUI located at `http://[docker host]:6800`.
 
