@@ -69,7 +69,7 @@ You can check the status of the project/spiders and logs on the scrapyd web GUI 
 To schedule the execution of some spider, use the scrapyd API:
 
 ```console
-curl http://[docker host]:6800/schedule.json -d project=sudmxbot -d spider=coronavirus
+curl http://[docker host]:6800/schedule.json -d project=<myproject> -d spider=<somespider>
 ```
 
 # Feedback
