@@ -1,0 +1,14 @@
+fake-useragent==0.1.11
+ftfy==5.8
+html2text==2020.1.16
+jellyfish>=0.7
+moment==0.12.1
+peewee==3.12.0
+psycopg2==2.8.6
+scrapy==2.4.1
+scrapyd==1.2.1
+ipython==7.16.1
+jedi==0.17.2
+html2text==2020.1.16
+loguru==0.5.3
+logparser==0.8.2
